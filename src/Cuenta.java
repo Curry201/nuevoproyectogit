@@ -25,6 +25,7 @@ public class Cuenta
 
     public double obtenerSaldo()
     {
+
         return saldo;
     }
 }
