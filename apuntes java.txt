@@ -1,0 +1,4 @@
+A partir de Java 10 ya se puede ignorar la keyword con el tipo de variable.
+Se puede sustituir por la palabra "var" y asignarle un valor.
+Gracias a la inferencia, se puede hacer concatenación de datos de distinto tipo.
+No se pueden ejecutar proyectos con JDK menores a la versión actual.
